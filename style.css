@@ -1,0 +1,31 @@
+body {
+    background-color:grey;
+}
+
+.header_div{
+    background-color:rgb(114, 105, 105);
+    font-size:12px;
+    font-weight:bold;
+    letter-spacing:2px;
+    font-family:'Roboto' , sans-serif;
+}
+
+.main_div button{
+    font-family:'Roboto' , sans-serif;
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing:3px;
+}
+
+.delovper{
+    background-color:rgb(114, 105, 105);
+    position:fixed;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    line-height:3;
+    text-align:center;
+    text-shadow:5px 5px 5px rgb(151 , 149 , 149);
+    color:#6c757d;
+}
